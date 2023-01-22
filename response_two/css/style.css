@@ -2,8 +2,8 @@
 
 @font-face {
   font-family: "murkas-icons";
-  src: url("/fonts/murkas-icons.eot?ktnrbn");
-  src: url("/fonts/murkas-icons.eot?ktnrbn#iefix") format("embedded-opentype"), url("/fonts/murkas-icons.ttf?ktnrbn") format("truetype"), url("/fonts/murkas-icons.woff?ktnrbn") format("woff"), url("/fonts/murkas-icons.svg?ktnrbn#murkas-icons") format("svg");
+  src: url("./fonts/murkas-icons.eot?ktnrbn");
+  src: url("./fonts/murkas-icons.eot?ktnrbn#iefix") format("embedded-opentype"), url("./fonts/murkas-icons.ttf?ktnrbn") format("truetype"), url("./fonts/murkas-icons.woff?ktnrbn") format("woff"), url("./fonts/murkas-icons.svg?ktnrbn#murkas-icons") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
