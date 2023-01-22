@@ -11,6 +11,7 @@
 
 [class^=icon-]::before,
 [class*=" icon-"]::before {
+  display: block;
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: "murkas-icons" !important;
   speak: never;
